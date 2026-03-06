@@ -14,7 +14,7 @@ In heavy industrial environments (such as steel mills, automotive stamping plant
 Because the cranes cannot pass each other, the system is highly susceptible to spatial deadlocks. This repository provides a robust **Discrete-Event Simulation (DES)** environment to test, visualize, and debug rule-based scheduling approaches for twin-crane systems. 
 
 ### 🎥 Simulation Demo
-![Demo](assets/Twin_Crane.gif)
+![Demo](assets/TwinCrane.gif)
 <!-- *(Placeholder: Drop your `demo.gif` in the root folder and uncomment the line below)* -->
 <!-- --- -->
 
